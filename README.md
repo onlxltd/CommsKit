@@ -1,4 +1,4 @@
-
+![CommsKit](./assets/commskit-banner.png)
 
 ## Get Started
 - Visit the [CommsKit](https://labs.onlx.ltd/commskit) website
