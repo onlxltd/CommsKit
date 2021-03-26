@@ -1,5 +1,7 @@
 ![CommsKit](./assets/commskit-banner.png)
 
+![GitHub all releases](https://img.shields.io/github/downloads/onlxltd/commskit/total?style=flat-square)
+
 ## Get Started
 - Visit the [CommsKit](https://labs.onlx.ltd/commskit) website
 - Download then latest version for [macOS](https://github.com/onlxltd/CommsKit/releases/download/v1.4.0/CommsKit-1.4.0.dmg)
