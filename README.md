@@ -4,8 +4,8 @@
 
 ## Get Started
 - Visit the [CommsKit](https://labs.onlx.ltd/commskit) website
-- Download then latest version for [macOS](https://github.com/onlxltd/CommsKit/releases/download/v1.4.0/CommsKit-1.4.0.dmg)
-- Download then latest version for [Windows](https://github.com/onlxltd/CommsKit/releases/download/v1.4.0/CommsKit-Setup-1.4.0.exe)
+- Download then latest version for [macOS](https://github.com/onlxltd/CommsKit/releases/download/v1.5.0/CommsKit-1.5.0.dmg)
+- Download then latest version for [Windows](https://github.com/onlxltd/CommsKit/releases/download/v1.5.0/CommsKit-Setup-1.5.0.exe)
 
 ## Useful Links
 - Get support within our community via [Discussions](https://github.com/onlxltd/commskit/discussions)
