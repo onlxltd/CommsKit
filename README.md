@@ -24,4 +24,4 @@ Run CommsKit in Dark or Light mode so you can keep working in any environment.
 
 <br />
 
-Copyright (c) ON LX Limited 2019 - 2021
+Copyright (c) ON LX Limited 2019 - 2023
